@@ -160,6 +160,13 @@ Copy
   align-items: center;  
 }
 
+.stack-container{
+  display: flex;
+  margin-top: 25px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .stack-label {
   display: inline-block;
   padding: 5px 12px;
