@@ -185,9 +185,9 @@ Copy
 
 
 .stack-label:hover {
-  color: var(--white);
-  border-color: var(--white);
-  box-shadow: 1px 1px 15px var(--white);
+  color: var(--orange);
+  border-color: var(--green);
+  box-shadow: 1px 1px 15px var(--yellow);
 }
 
 #exp-desc-para{
