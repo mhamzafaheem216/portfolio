@@ -199,8 +199,13 @@ html {
 }
 
 body {
-  background-color: var(--bg-dark);
+  background-color: var(--bg-dark-green);
   color: var(--white);
+}
+
+
+:root {
+  --bg-dark-green: #050e05;
 }
 
 
